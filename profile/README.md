@@ -22,8 +22,6 @@ Fabian Müller
 Danziger Str. 6  
 51399 Burscheid  
 
-Hier ist die korrigierte Version des Textes mit Verbesserungen in Rechtschreibung und Zeichensetzung:
-
 ---
 
 # Datenschutzerklärung für curia.chat
