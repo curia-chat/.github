@@ -6,7 +6,8 @@ To achieve this goal, the project consists of multiple repositories, each contai
   A collection of scripts needed to collect ECJ judgments and write them to a database (currently, there is no publicly available uniform database of ECJ judgments).  
 - **[curia-chat/frontend](https://github.com/curia-chat/frontend):**  
   Contains the frontend for interaction with the chatbot, which is currently powered by [Flowise](https://github.com/FlowiseAI/Flowise).  
-- In future releases, there will be a repository containing the chatbot itself. The chatbot is currently provided via Flowise.
+- **[curia-chat/flowise-chatbot](https://github.com/curia-chat/flowise-chatbot):**  
+  As the backend of curia.chat is provided by Flowise, this contains what is needed to configure a Flowise instance to provide this backend.
 
 **The project is currently available in German only.**  
 The project was started as a side project during the writing of the doctoral thesis by the current project owner.
